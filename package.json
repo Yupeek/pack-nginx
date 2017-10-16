@@ -1,0 +1,27 @@
+{
+	"name": "nginx",
+	"types": ["pack"],
+	"version": "1.0",
+	"homepage": "https://github.com/Yupeek/pack-nginx",
+	"author": "Darius BERNARD",
+	"description": "nginx status check",
+	"contributors": [
+	  {
+		"name": "Darius BERNARD",
+		"email": "darius@xornot.fr"
+	  }
+	],
+	"repository": "https://github.com/Yupeek/pack-nginx",
+	"keywords": [
+	  "pack",
+	  "nginx",
+	  "status",
+	  "http",
+	  "https"
+	  
+	],
+	"dependencies": {
+	  "shinken": ">=1.4"
+	},
+	"license": "GPL3"
+}
