@@ -1,7 +1,7 @@
 {
 	"name": "nginx",
 	"types": ["pack"],
-	"version": "1.0",
+	"version": "1.1",
 	"homepage": "https://github.com/Yupeek/pack-nginx",
 	"author": "Darius BERNARD",
 	"description": "nginx status check",
